@@ -1,2 +1,2 @@
-# lightbot_service
-This is a service Robot for people with little or no hearing
+# LightBot_Code
+Lightbot is a service robot to aid in noise detection for the hard of hearing
